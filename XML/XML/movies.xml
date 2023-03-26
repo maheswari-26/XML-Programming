@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movies>
+  <movie id="1">
+    <title>The Shawshank Redemption</title>
+    <year>1994</year>
+    <genre>Drama</genre>
+    <director>Frank Darabont</director>
+    <cast>
+      <actor>Tim Robbins</actor>
+      <actor>Morgan Freeman</actor>
+      <actor>Bob Gunton</actor>
+    </cast>
+  </movie>
+  <movie id="2">
+    <title>The Godfather</title>
+    <year>1972</year>
+    <genre>Crime</genre>
+    <director>Francis Ford Coppola</director>
+    <cast>
+      <actor>Marlon Brando</actor>
+      <actor>Al Pacino</actor>
+      <actor>James Caan</actor>
+    </cast>
+  </movie>
+  <movie id="3">
+    <title>Star Wars: Episode IV - A New Hope</title>
+    <year>1977</year>
+    <genre>Sci-Fi</genre>
+    <director>George Lucas</director>
+    <cast>
+      <actor>Mark Hamill</actor>
+      <actor>Harrison Ford</actor>
+      <actor>Carrie Fisher</actor>
+    </cast>
+  </movie>
+</movies>

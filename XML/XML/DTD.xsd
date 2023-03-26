@@ -1,0 +1,11 @@
+<!DOCTYPE movies [
+  <!ELEMENT movies (movie+)>
+  <!ELEMENT movie (title, year, genre, director, cast)>
+  <!ATTLIST movie id CDATA #REQUIRED>
+  <!ELEMENT title (#PCDATA)>
+  <!ELEMENT year (#PCDATA)>
+  <!ELEMENT genre (#PCDATA)>
+  <!ELEMENT director (#PCDATA)>
+  <!ELEMENT cast (actor+)>
+  <!ELEMENT actor (#PCDATA)>
+]>
